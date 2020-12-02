@@ -1,2 +1,0 @@
-# kfu
-Kazan Federal University
